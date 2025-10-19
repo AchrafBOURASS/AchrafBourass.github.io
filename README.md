@@ -1,18 +1,19 @@
 ![cover screenshot](/media/portfolio-screenshot.JPG)
 
-# Description
-Portfolio for machine learning/deep learning engineers, who are participating in competitions. Free to use for anybody interested.
-The website is divided into 5 different sections:
-1. Cover section
-2. About-you section 
-3. Selected articles where you can list the research  and your articles
-4. Accomplishments (for certificates)
-5. Get-in-touch section with links to socials
+Description
+A personal portfolio website designed to showcase your professional journey, achievements, and expertise.
+
+It includes five main sections:
+
+Cover Section – Introduces you and highlights your professional focus.
+
+About You – Summarizes your background, skills, and areas of expertise.
+
+Selected Articles – Features your research papers, publications, and written work.
+
+Accomplishments – Displays your certifications, awards, and notable achievements.
+
+Get in Touch – Provides direct links to your social media profiles and contact information.
 
 # Online demo
 https://achrafbourass.github.io/
-
-# References
-Neural network animation: https://codepen.io/towc/pen/wGjXGY  
-Designed by https://www.maxschaefer.tech
-Inspired by: https://github.com/bchiang7/v4
