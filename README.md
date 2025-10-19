@@ -1,4 +1,5 @@
-![cover screenshot](/media/portfolio-screenshot.JPG)
+![cover screenshot](https://AchrafBourass.github.io/media/portfolio-screenshot.JPG)
+
 
 Description
 A personal portfolio website designed to showcase your professional journey, achievements, and expertise.
